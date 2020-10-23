@@ -1,5 +1,6 @@
 # C-
-红黑树实现与可视化 C++
+
+## 红黑树实现与可视化 C++
 
 ![](./delete20.png)
 
@@ -13,4 +14,4 @@
 * Ubuntu 18.04 测试通过
 
 > 实现参考了《算法导论》
-> 可视化参考了[](https://blog.nanpuyue.com/2019/054.html)
+> 可视化参考了[南浦月](https://blog.nanpuyue.com/2019/054.html)
